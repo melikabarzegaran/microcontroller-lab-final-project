@@ -1,0 +1,4 @@
+VERSION:3 SOURCE_TIMESTAMP:4AE64583
+NODE:I LEVEL:0 LINE:39 "C:\cvavr2\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:40 "C:\cvavr2\inc\delay.h"
+NODE:F LEVEL:0 LINE:42 "main(void)"

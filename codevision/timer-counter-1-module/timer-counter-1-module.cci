@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:4AE608A3
+NODE:I LEVEL:0 LINE:43 "C:\cvavr2\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:44 "C:\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:45 "C:\cvavr2\inc\stdlib.h"
+NODE:V LEVEL:0 LINE:47 "total_overflow -> R4,R5"
+NODE:F LEVEL:0 LINE:51 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:71 "show(void)"
+NODE:F LEVEL:0 LINE:79 "main(void)"

@@ -1,0 +1,4 @@
+VERSION:3 SOURCE_TIMESTAMP:4AE60844
+NODE:I LEVEL:0 LINE:39 "C:\cvavr2\inc\mega32a.h"
+NODE:F LEVEL:0 LINE:41 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:48 "main(void)"

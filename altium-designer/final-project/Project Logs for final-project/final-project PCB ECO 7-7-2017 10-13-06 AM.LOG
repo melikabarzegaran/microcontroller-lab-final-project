@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=VCC Pin=H5-1
+Removed Pin From Net: NetName=VCC Pin=H5-2
+Removed Pin From Net: NetName=PA0 Pin=H5-3
+Removed Pin From Net: NetName=PA1 Pin=H5-5
+Removed Pin From Net: NetName=PA2 Pin=H5-7
+Removed Pin From Net: NetName=PA3 Pin=H5-9
+Removed Pin From Net: NetName=PA4 Pin=H5-11
+Removed Pin From Net: NetName=PA5 Pin=H5-13
+Removed Pin From Net: NetName=PA6 Pin=H5-15
+Removed Pin From Net: NetName=PA7 Pin=H5-17
+Removed Pin From Net: NetName=PB0 Pin=H6-1
+Removed Pin From Net: NetName=PB1 Pin=H6-3
+Removed Pin From Net: NetName=PB2 Pin=H6-5
+Removed Pin From Net: NetName=PB3 Pin=H6-7
+Removed Pin From Net: NetName=PB4 Pin=H6-9
+Removed Pin From Net: NetName=PB5 Pin=H6-11
+Removed Pin From Net: NetName=PB6 Pin=H6-13
+Removed Pin From Net: NetName=PB7 Pin=H6-15
+Removed Pin From Net: NetName=VCC Pin=H6-17
+Removed Pin From Net: NetName=VCC Pin=H6-18
+Removed Pin From Net: NetName=VCC Pin=H7-1
+Removed Pin From Net: NetName=VCC Pin=H7-2
+Removed Pin From Net: NetName=VCC Pin=H8-17
+Removed Pin From Net: NetName=VCC Pin=H8-18
+Removed Member From Class: ClassName=final-project Member=H4
+Removed Member From Class: ClassName=final-project Member=H5
+Removed Member From Class: ClassName=final-project Member=H6
+Removed Member From Class: ClassName=final-project Member=H7
+Removed Member From Class: ClassName=final-project Member=H8
+Removed Member From Class: ClassName=final-project Member=H9
+Removed Member From Class: ClassName=final-project Member=H10
+Removed Member From Class: ClassName=final-project Member=H11
+Change Component Designator: OldDesignator=H9 NewDesignator=H1
+Change Component Designator: OldDesignator=H10 NewDesignator=H2
+Change Component Designator: OldDesignator=H11 NewDesignator=H3
+Added Pin To Net: NetName=PB0 Pin=ATMEGA32-1
+Added Pin To Net: NetName=PB1 Pin=ATMEGA32-2
+Added Pin To Net: NetName=PB2 Pin=ATMEGA32-3
+Added Pin To Net: NetName=PB3 Pin=ATMEGA32-4
+Added Pin To Net: NetName=PB4 Pin=ATMEGA32-5
+Added Pin To Net: NetName=PB5 Pin=ATMEGA32-6
+Added Pin To Net: NetName=PB6 Pin=ATMEGA32-7
+Added Pin To Net: NetName=PB7 Pin=ATMEGA32-8
+Added Pin To Net: NetName=PD2 Pin=ATMEGA32-16
+Added Pin To Net: NetName=PD3 Pin=ATMEGA32-17
+Added Pin To Net: NetName=PD4 Pin=ATMEGA32-18
+Added Pin To Net: NetName=PD5 Pin=ATMEGA32-19
+Added Pin To Net: NetName=PD6 Pin=ATMEGA32-20
+Added Pin To Net: NetName=PD7 Pin=ATMEGA32-21
+Added Pin To Net: NetName=PC0 Pin=ATMEGA32-22
+Added Pin To Net: NetName=PC1 Pin=ATMEGA32-23
+Added Pin To Net: NetName=PC2 Pin=ATMEGA32-24
+Added Pin To Net: NetName=PC3 Pin=ATMEGA32-25
+Added Pin To Net: NetName=PC4 Pin=ATMEGA32-26
+Added Pin To Net: NetName=PC5 Pin=ATMEGA32-27
+Added Pin To Net: NetName=PC6 Pin=ATMEGA32-28
+Added Pin To Net: NetName=PA7 Pin=ATMEGA32-33
+Added Pin To Net: NetName=PA6 Pin=ATMEGA32-34
+Added Pin To Net: NetName=PA5 Pin=ATMEGA32-35
+Added Pin To Net: NetName=PA4 Pin=ATMEGA32-36
+Added Pin To Net: NetName=PA3 Pin=ATMEGA32-37
+Added Pin To Net: NetName=PA2 Pin=ATMEGA32-38
+Added Pin To Net: NetName=PA1 Pin=ATMEGA32-39
+Added Pin To Net: NetName=PA0 Pin=ATMEGA32-40
+Change Net Name : Old Net Name=NetH10_1 New Net Name=NetH2_1
+Change Net Name : Old Net Name=NetH10_2 New Net Name=NetH2_2
+Change Net Name : Old Net Name=NetH10_3 New Net Name=NetH2_3
+Change Net Name : Old Net Name=NetH11_2 New Net Name=NetH3_2
+Added Pin To Net: NetName=PC7 Pin=ATMEGA32-29
+Added Net: Name=PC7
+Added Pin To Net: NetName=PD0 Pin=ATMEGA32-14
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=ATMEGA32-15
+Added Net: Name=PD1

@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"timer-counter-0-module.c" LINE:60
+timer0_ovf_isr DSTACK_USAGE:3 DSTACK_LEVEL:3 FILE:"timer-counter-0-module.c" LINE:43

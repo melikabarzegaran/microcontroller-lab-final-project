@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=PB5 Pin=7SEGMENT-2
+Removed Pin From Net: NetName=PB6 Pin=7SEGMENT-3
+Removed Pin From Net: NetName=PB4 Pin=7SEGMENT-4
+Removed Pin From Net: NetName=PB3 Pin=7SEGMENT-5
+Removed Pin From Net: NetName=PB7 Pin=7SEGMENT-7
+Removed Pin From Net: NetName=PB2 Pin=7SEGMENT-8
+Removed Pin From Net: NetName=PB1 Pin=7SEGMENT-9
+Removed Pin From Net: NetName=PB0 Pin=7SEGMENT-10
+Change Component DesignItemId : Designator=7SEGMENT Old DesignItemId=Dpy Red-CA New DesignItemId=HDSP-511A
+Change Component Footprint: Designator=7SEGMENT Old Footprint=LEDDIP-10/C15.24RHD New Footprint=HDSP-51
+Change Component Comment : Designator=7SEGMENT Old Comment=Dpy Red-CA New Comment=HDSP-511A
+Added Pin To Net: NetName=PB4 Pin=7SEGMENT-1
+Added Pin To Net: NetName=PB3 Pin=7SEGMENT-2
+Added Pin To Net: NetName=PB2 Pin=7SEGMENT-4
+Added Pin To Net: NetName=PB7 Pin=7SEGMENT-5
+Added Pin To Net: NetName=PB1 Pin=7SEGMENT-6
+Added Pin To Net: NetName=PB0 Pin=7SEGMENT-7
+Added Pin To Net: NetName=PB5 Pin=7SEGMENT-9
+Added Pin To Net: NetName=PB6 Pin=7SEGMENT-10
+Added Pin To Net: NetName=Net7SEGMENT_3 Pin=7SEGMENT-3
+Added Pin To Net: NetName=Net7SEGMENT_3 Pin=7SEGMENT-8
+Added Pin To Net: NetName=Net7SEGMENT_3 Pin=Q3-3
+Added Net: Name=Net7SEGMENT_3

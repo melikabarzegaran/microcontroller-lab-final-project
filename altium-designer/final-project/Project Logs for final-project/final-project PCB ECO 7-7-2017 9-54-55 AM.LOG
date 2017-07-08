@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=H1 Old Footprint=HDR1X8 New Footprint=HDR2X8
+Added Pin To Net: NetName=NetH1_9 Pin=H1-9
+Added Pin To Net: NetName=NetATMEGA32_36 Pin=H1-10
+Added Pin To Net: NetName=NetH1_11 Pin=H1-11
+Added Pin To Net: NetName=NetATMEGA32_35 Pin=H1-12
+Added Pin To Net: NetName=NetH1_13 Pin=H1-13
+Added Pin To Net: NetName=NetATMEGA32_34 Pin=H1-14
+Added Pin To Net: NetName=NetH1_15 Pin=H1-15
+Added Pin To Net: NetName=NetATMEGA32_33 Pin=H1-16
+Added Room: Name=final-project

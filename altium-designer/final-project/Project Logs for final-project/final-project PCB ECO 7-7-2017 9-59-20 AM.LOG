@@ -1,0 +1,58 @@
+Change Component Footprint: Designator=H2 Old Footprint=HDR1X8 New Footprint=HDR2X8
+Change Component Footprint: Designator=H3 Old Footprint=HDR1X8 New Footprint=HDR2X8
+Change Component Footprint: Designator=H4 Old Footprint=HDR1X8 New Footprint=HDR2X8
+Change Component Footprint: Designator=H5 Old Footprint=HDR1X9 New Footprint=HDR2X9
+Change Component Footprint: Designator=H6 Old Footprint=HDR1X9 New Footprint=HDR2X9
+Change Component Footprint: Designator=H7 Old Footprint=HDR1X9 New Footprint=HDR2X9
+Change Component Footprint: Designator=H8 Old Footprint=HDR1X9 New Footprint=HDR2X9
+Added Pin To Net: NetName=NetH2_9 Pin=H2-9
+Added Pin To Net: NetName=NetATMEGA32_5 Pin=H2-10
+Added Pin To Net: NetName=NetH2_11 Pin=H2-11
+Added Pin To Net: NetName=NetATMEGA32_6 Pin=H2-12
+Added Pin To Net: NetName=NetH2_13 Pin=H2-13
+Added Pin To Net: NetName=NetATMEGA32_7 Pin=H2-14
+Added Pin To Net: NetName=NetH2_15 Pin=H2-15
+Added Pin To Net: NetName=NetATMEGA32_8 Pin=H2-16
+Added Pin To Net: NetName=NetATMEGA32_26 Pin=H3-9
+Added Pin To Net: NetName=NetH3_10 Pin=H3-10
+Added Pin To Net: NetName=NetATMEGA32_27 Pin=H3-11
+Added Pin To Net: NetName=NetH3_12 Pin=H3-12
+Added Pin To Net: NetName=NetATMEGA32_28 Pin=H3-13
+Added Pin To Net: NetName=NetH3_14 Pin=H3-14
+Added Pin To Net: NetName=NetATMEGA32_29 Pin=H3-15
+Added Pin To Net: NetName=NetH3_16 Pin=H3-16
+Added Pin To Net: NetName=NetATMEGA32_18 Pin=H4-9
+Added Pin To Net: NetName=NetH4_10 Pin=H4-10
+Added Pin To Net: NetName=NetATMEGA32_19 Pin=H4-11
+Added Pin To Net: NetName=NetH4_12 Pin=H4-12
+Added Pin To Net: NetName=NetATMEGA32_20 Pin=H4-13
+Added Pin To Net: NetName=NetH4_14 Pin=H4-14
+Added Pin To Net: NetName=NetATMEGA32_21 Pin=H4-15
+Added Pin To Net: NetName=NetH4_16 Pin=H4-16
+Added Pin To Net: NetName=NetH1_7 Pin=H5-10
+Added Pin To Net: NetName=PA4 Pin=H5-11
+Added Pin To Net: NetName=NetH1_9 Pin=H5-12
+Added Pin To Net: NetName=PA5 Pin=H5-13
+Added Pin To Net: NetName=NetH1_11 Pin=H5-14
+Added Pin To Net: NetName=PA6 Pin=H5-15
+Added Pin To Net: NetName=NetH1_13 Pin=H5-16
+Added Pin To Net: NetName=PA7 Pin=H5-17
+Added Pin To Net: NetName=NetH1_15 Pin=H5-18
+Added Pin To Net: NetName=NetH2_9 Pin=H6-10
+Added Pin To Net: NetName=PB5 Pin=H6-11
+Added Pin To Net: NetName=NetH2_11 Pin=H6-12
+Added Pin To Net: NetName=PB6 Pin=H6-13
+Added Pin To Net: NetName=NetH2_13 Pin=H6-14
+Added Pin To Net: NetName=PB7 Pin=H6-15
+Added Pin To Net: NetName=NetH2_15 Pin=H6-16
+Added Pin To Net: NetName=VCC Pin=H6-17
+Added Pin To Net: NetName=VCC Pin=H6-18
+Added Pin To Net: NetName=NetH3_10 Pin=H7-11
+Added Pin To Net: NetName=NetH3_12 Pin=H7-13
+Added Pin To Net: NetName=NetH3_14 Pin=H7-15
+Added Pin To Net: NetName=NetH3_16 Pin=H7-17
+Added Pin To Net: NetName=NetH4_12 Pin=H8-11
+Added Pin To Net: NetName=NetH4_14 Pin=H8-13
+Added Pin To Net: NetName=NetH4_16 Pin=H8-15
+Added Pin To Net: NetName=VCC Pin=H8-17
+Added Pin To Net: NetName=VCC Pin=H8-18

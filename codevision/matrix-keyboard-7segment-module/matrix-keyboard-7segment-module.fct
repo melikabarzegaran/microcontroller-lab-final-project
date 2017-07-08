@@ -1,0 +1,3 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"matrix-keyboard-7segment-module.c" LINE:102
+ext_int1_isr DSTACK_USAGE:12 DSTACK_LEVEL:12 FILE:"matrix-keyboard-7segment-module.c" LINE:48
+show DSTACK_USAGE:2 DSTACK_LEVEL:14 FILE:"matrix-keyboard-7segment-module.c" LINE:96

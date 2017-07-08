@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PD7 Pin=Q2-2
+Removed Pin From Net: NetName=PD7 Pin=R5-2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R5-2
+Added Net: Name=NetQ2_2
+Added Room: Name=final-project

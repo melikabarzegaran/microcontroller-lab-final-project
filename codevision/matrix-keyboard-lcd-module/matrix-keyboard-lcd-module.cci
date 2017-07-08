@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:4AE60857
+NODE:I LEVEL:0 LINE:39 "C:\cvavr2\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:40 "C:\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:41 "C:\cvavr2\inc\delay.h"
+NODE:V LEVEL:0 LINE:47 "symbols -> RAM:????"
+NODE:F LEVEL:0 LINE:49 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:91 "delay(void)"
+NODE:F LEVEL:0 LINE:97 "show(int number)"
+NODE:F LEVEL:0 LINE:106 "main(void)"
